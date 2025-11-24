@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/consumo-apis-gitpage/static/css/main.3031a02c.css",
+    "main.js": "/consumo-apis-gitpage/static/js/main.90347726.js",
+    "static/js/453.3262e246.chunk.js": "/consumo-apis-gitpage/static/js/453.3262e246.chunk.js",
+    "index.html": "/consumo-apis-gitpage/index.html",
+    "main.3031a02c.css.map": "/consumo-apis-gitpage/static/css/main.3031a02c.css.map",
+    "main.90347726.js.map": "/consumo-apis-gitpage/static/js/main.90347726.js.map",
+    "453.3262e246.chunk.js.map": "/consumo-apis-gitpage/static/js/453.3262e246.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3031a02c.css",
+    "static/js/main.90347726.js"
+  ]
+}
